@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="6.2.0"/>
+	<deviceVariant value="MSP430FR6989"/>
+	<deviceFamily value="MSP430"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="15.12.3.LTS"/>
+	<isElfFormat value="true"/>
+	<linkerCommandFile value="lnk_msp430fr6989.cmd"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=OutOfBox_MSP430FR6989.projectspec.OutOfBox_MSP430FR6989,"/>
+	<origin value="C:\ti\tirex-content\msp\msp430ware__3.50.00.04\examples\boards\MSP-EXP430FR6989\MSP-EXP430FR6989_Software_Examples\Firmware\Source\OutOfBox_MSP430FR6989\CCS\OutOfBox_MSP430FR6989.projectspec"/>
+	<filesToOpen value="main.c,"/>
+</projectOptions>
